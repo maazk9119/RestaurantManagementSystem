@@ -1,0 +1,4 @@
+goal gappe
+120
+chat
+70

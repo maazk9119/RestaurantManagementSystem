@@ -1,0 +1,16 @@
+Regular 
+30
+500ml 
+50
+1 Litre
+80
+1.5 Litre
+100 
+Jumbo
+130
+500ml Water Bottle
+30
+1.5 Litre Water Bottle
+50
+string
+60

@@ -1,0 +1,16 @@
+Club Sandwhich
+140
+Club Sandwhich with Cheese
+160
+Chicken Sandwhich
+130
+Chicken Sandwhich with Cheese
+150
+Crispy Sandwhich
+150
+Crispy Sandwhich with Cheese
+160
+Beef Sandwhich 
+160
+Beef Sandwhich with Cheese
+180

@@ -1,0 +1,16 @@
+AundaWala Burger
+70
+AundaWala Burger with Fries 
+100
+AundaWala Burger with Cheese
+100
+AundaWala Burger with Cheese & Fries
+120
+Shami Burger
+50
+Shami Burger with Cheese
+70
+Shami Burger with Fries
+70
+Shami Burger with Cheese & Fries
+100

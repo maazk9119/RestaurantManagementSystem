@@ -1,0 +1,4 @@
+small pizza
+350
+Regular pizza
+500

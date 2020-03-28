@@ -1,0 +1,30 @@
+Mini Zinger 
+120
+Mini Zinger with Fries
+140
+Mini Zinger with Cheese
+140
+Zinger 
+160
+Zinger with Cheese
+180
+Super Jumbo Zinger 
+220
+Super Jumbo Zinger with Cheese
+240
+Chicken Burger 
+100
+Chicken Burger with Cheese
+120
+Jumbo Chicken Burger
+150
+Jumbo Chicken Burger with Cheese
+170
+Beef Burger
+110
+Beef Burger with Cheese
+130
+Jumbo Beef Burger
+160
+Jumbo Beef Burger with Cheese
+200

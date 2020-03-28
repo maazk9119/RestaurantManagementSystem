@@ -1,0 +1,8 @@
+Half Fries
+50
+Full Fries 
+100
+Half Mayo Vegetable Fries
+80
+Full Mayo Vegetable Fries
+120
